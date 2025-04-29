@@ -18,4 +18,4 @@ How to Run
 3. Run the main script
 
  Author
-Magus (Ochieng Ian Magus Otieno)
+theMagus
